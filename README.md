@@ -6,11 +6,13 @@ The Lens Holiday Hackathon is an opportunity to build innovative projects on Len
 
 - **Kickoff:** December 16th, 2024 at 4pm CET
 - **Submission Deadline:** January 7th, 2025 at 4pm CET
-- **Voting/Judging Period:** January 8th, 2025 at 4pm CET – January 12th, 2025 at 4pm CET
+- **Voting/Judging Period:** January 7th, 2025 at 4pm CET – January 12th, 2025 at 4pm CET
 
 ### Tracks and Themes
 
-Eligible projects must be deployed to [Lens Testnet](https://dev-preview.lens.xyz/docs), and using [Family’s Connect Kit](https://docs.family.co/connectkit) when possible. Suggested ideas:
+Lens network is a high performance chain, built for SocialFi use cases, currently on testnet. For this holiday hackathon, Lens are inviting all developers to hack on the network.
+
+Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/docs/network/overview) and using [Family’s Connect Kit](https://docs.family.co/connectkit) when possible. Potential ideas include:
 
 - Social/SocialFi apps using features like Feeds, Social Graphs, etc.
 - Meme-adjacent projects
@@ -27,14 +29,14 @@ Eligible projects must be deployed to [Lens Testnet](https://dev-preview.lens.xy
 
 ### Rules
 
-1. Build on Lens, use [ConnectKit](https://github.com/family/connectkit) where applicable. [Docs.](https://dev-preview.lens.xyz/docs/features/getting-started) [$GRASS Testnet Tokens.](https://dev-preview.lens.xyz/docs/network/tools/faucets)
+1. Build on [Lens Network Testnet](https://dev-preview.lens.xyz/docs/network/overview), use [ConnectKit](https://github.com/family/connectkit) where applicable. Get $GRASS Testnet Tokens [here](https://dev-preview.lens.xyz/docs/network/tools/faucets).
 2. For troubleshooting, write to us on Telegram.
 3. The maximum number of hackers per team is 4.
 4. Submissions should be open source and built using the Lens network on Testnet. Code must be new, starting on December 16th, 2024 at 4pm CET. Any other submissions will not be considered.
 5. Submissions with commits after the deadline of January 7th, 2025 at 4pm CET will be disqualified.
 6. Teams must submit their projects for review via:
    1. Lens Holiday Hackathon GitHub, by following [these steps](#submit-your-project).
-   2. Jokerace Entry. Submissions that are not in Jokerace won’t be able to be voted, therefore disqualified.
+   2. [Jokerace Entry](https://jokerace.io/contest/polygon/0x552bdf3d0acfa0bc398607fd675d3b4cce6aabdf). Submissions that are not in Jokerace won’t be able to be voted, therefore disqualified.
 7. Final submission must include:
    1. Clear and concise README.
    2. Prototype app.
